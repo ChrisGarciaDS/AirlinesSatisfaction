@@ -1,4 +1,5 @@
-# AirlinesSatisfaction
+# Predicting Airlines Customer Satisfaction
+
 Purpose:
 
 Knowing how satisfied a customer is with the level of service offered by a company can either propel it forward or result in its downfall. Recognizing which services are particularly important to a consumer provide both existing and budding airlines with focal points that could enable their business to stand out among their competition. Working with the data available on passenger satisfaction on services offered by multiple US airlines will discern which amenities need further attention, or even incorporation into an airline’s business model, and which amenities are insignificant.
